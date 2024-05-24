@@ -12,3 +12,6 @@ This game got into finals of the RAF Challenge 2022.
 While not overly complex, paired with a smooth presentation entirely created in Unity, won the first place at MET Talents 2023.
 
 If you have any questions don't hesitate to reach out, we'll be glad to work with you!
+<p align="center">
+  <img src="https://i.imgur.com/RyBahk2.png" alt="NoNameStudios">
+</p>
